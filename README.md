@@ -1,4 +1,4 @@
-# Curso Basico - Fundamentos do Amazon Sage Maker
+# Fundamentos do Amazon Sage Maker
 
 ## Estrutura do Treinamento
 ### Aula 1 - Introdução ao caso de Engenharia de Machine Learning com o ByteBank e inicialização das instâncias de notebook    
